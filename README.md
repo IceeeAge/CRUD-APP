@@ -13,9 +13,9 @@ git clone https://github.com/your-username/your-expo-app.git
 cd your-expo-app``
 
 
-#2. Install Dependencies
+### 2. Install Dependencies
 
-# Install Expo CLI globally if you haven't already
+Install Expo CLI globally if you haven't already
 npm install -g expo-cli
 
 
