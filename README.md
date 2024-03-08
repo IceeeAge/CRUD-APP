@@ -15,10 +15,7 @@
 
 # 5. Update GlobalApi.js
 - Change the URL in GlobalApi.js with your Hygraph CMS API access:
-
-# In GlobalApi.js
--replace "paste_your_api_access_here" with your Hygraph CMS API access
--const MASTER_URL = "paste_your_api_access_here";
+const MASTER_URL = "paste_your_api_access_here";
 
 # 6. Public Content API
  Add the following permissions in your Hygraph CMS:
