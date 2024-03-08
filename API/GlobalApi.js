@@ -2,7 +2,7 @@
 import { request, gql } from "graphql-request";
 
 const MASTER_URL =
-  "https://api-ap-northeast-1.hygraph.com/v2/clthe3ns1000007w3qwum40ne/master";
+  "";
 
 const CreateNote = async (data) => {
   const mutation = gql`
