@@ -16,7 +16,7 @@ https://github.com/IceeeAge/CRUD-APP/assets/135114589/fbdf4407-42ec-4e0d-b5f0-d4
 # 4. Create Schema in Hygraph CMS
 - Add Schema: Note
 - Add Field: Text
-![Project Logo](/assets/Images/schema.png)
+![Schema](/assets/Images/schema.png)
 
 ## 5. Update GlobalApi.js
 - Change the URL in GlobalApi.js with your Hygraph CMS API access:
@@ -31,7 +31,8 @@ const MASTER_URL = "paste_your_api_access_here";
 - Delete
 - Publish
 - Unpublish
-![Project Logo](/assets/Images/permission.png)
+
+![Permission](/assets/Images/permission.png)
 
 ### Happy Coding!
  You are now set up with your Expo CRUD-APP integrated with Hygraph CMS using GraphQL!
@@ -39,7 +40,7 @@ const MASTER_URL = "paste_your_api_access_here";
  If you have any questions, refer to the Hygraph CMS documentation or reach out to their support.
 
 
-https://github.com/IceeeAge/CRUD-APP/assets/135114589/fbdf4407-42ec-4e0d-b5f0-d462a1d44e39
+
 
 
 
