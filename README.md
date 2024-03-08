@@ -37,5 +37,8 @@ const MASTER_URL = "paste_your_api_access_here";
  If you have any questions, refer to the Hygraph CMS documentation or reach out to their support.
 
 
+https://github.com/IceeeAge/CRUD-APP/assets/135114589/fbdf4407-42ec-4e0d-b5f0-d462a1d44e39
+
+
 
   
