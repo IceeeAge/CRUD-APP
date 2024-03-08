@@ -6,26 +6,20 @@ Welcome to the Expo app with Hygraph CMS integration! This project uses GraphQL 
 
 ## Getting Started
 
-### 1. Clone the Repository
-
-``bash
+# Clone the Repository
 git clone https://github.com/your-username/your-expo-app.git
-cd your-expo-app``
+cd your-expo-app
 
-
-### 2. Install Dependencies
-
-Install Expo CLI globally if you haven't already
+# Install Expo CLI globally if you haven't already
 npm install -g expo-cli
-
-
 
 # Install project dependencies
 npm install
 
 
 
-### 3. Create Account Hygraph CMS
+
+##  Create Account Hygraph CMS
 create an account 
 create schema ![Schema pic](https://ibb.co/wKhLcYK)
 
