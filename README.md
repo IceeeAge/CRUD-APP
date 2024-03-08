@@ -16,13 +16,11 @@ cd your-expo-app``
 ### 2. Install Dependencies
 
 Install Expo CLI globally if you haven't already
-npm install -g expo-cli
+
+``npm install -g expo-cli``
 
 
 
-# Install project dependencies
-npm install
-
-
-
-3. Create Account Hygraph CMS
+### 3. Create Account Hygraph CMS
+Create Schema 
+   
