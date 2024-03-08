@@ -1,6 +1,6 @@
 # Clone the Repository
 git clone https://github.com/your-username/your-expo-app.git
-cd your-expo-app
+
 
 # 1. Install Dependencies
     npm install -g expo-cli
