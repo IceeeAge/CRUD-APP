@@ -1,29 +1,39 @@
-# Clone the Repository
+# 1. Clone the Repository
 git clone https://github.com/your-username/your-expo-app.git
 
+# 2. Install Dependencies
+npm install -g expo-cli
+npm install
+npm add graphql-request graphql
 
-# 1. Install Dependencies
-    npm install -g expo-cli
-    npm install
-    npm add graphql-request graphql
+# 3. Create a Hygraph CMS Account
+# Create an account on Hygraph CMS
 
-# 1. Create a Hygraph CMS Account
- - Create an account on Hygraph CMS
+# 4. Create Schema in Hygraph CMS
+# Add Schema: Note
+# Add Field: Text
 
+# 5. Update GlobalApi.js
+# Change the URL in GlobalApi.js with your Hygraph CMS API access:
 
+# In GlobalApi.js, replace "paste_your_api_access_here" with your Hygraph CMS API access
+const MASTER_URL = "paste_your_api_access_here";
 
-# 2. Create Schema in Hygraph CMS
-    1. add Schema = Note 
-    2. add Field = Text 
+# 6. Public Content API
+# Add the following permissions in your Hygraph CMS:
 
-# 3. GlobalApi.js
-     change the URL of your Hygraph CMS go to the setting hygraph cms copy the api acces
-      const MASTER_URL = "past here your api acces";
+# - Read
+# - Create
+# - Update
+# - Delete
+# - Publish
+# - Unpublish
 
-# 4. Public Content API
-     + Add permission
-    Read,Create,Update,Delete,Publish,Unpublish
+# Happy Coding!
+# You are now set up with your Expo CRUD-APP integrated with Hygraph CMS using GraphQL!
+# Happy coding and feel free to customize and enhance your app.
+# If you have any questions, refer to the Hygraph CMS documentation or reach out to their support.
 
-# Happy coding with your Expo CRUD-APP integrated with Hygraph CMS using GraphQL!
+# One-click copy and paste the commands above to get started quickly!
 
   
