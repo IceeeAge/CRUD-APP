@@ -2,10 +2,10 @@
 git clone https://github.com/your-username/your-expo-app.git
 cd your-expo-app
 
-# Install Dependencies
-npm install -g expo-cli
-npm install
-npm add graphql-request graphql
+# 1. Install Dependencies
+    npm install -g expo-cli
+    npm install
+    npm add graphql-request graphql
 
 # 1. Create a Hygraph CMS Account
  - Create an account on Hygraph CMS
