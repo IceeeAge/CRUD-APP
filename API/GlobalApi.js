@@ -2,7 +2,7 @@
 import { request, gql } from "graphql-request";
 
 const MASTER_URL =
-  "";
+  "https://example.com";
 
 const CreateNote = async (data) => {
   const mutation = gql`
