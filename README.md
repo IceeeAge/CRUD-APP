@@ -26,8 +26,7 @@ npm install
 
 
 ### 3. Create Account Hygraph CMS
+create an account 
+create schema ![Schema pic](https://ibb.co/wKhLcYK)
 
-create schema ![Project Logo]("/assets/Images/schema.png")
-
-Create Schema 
   
