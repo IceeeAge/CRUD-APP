@@ -14,6 +14,7 @@
 # 4. Create Schema in Hygraph CMS
 - Add Schema: Note
 - Add Field: Text
+![Project Logo](/assets/Images/schema.png)
 
 ## 5. Update GlobalApi.js
 - Change the URL in GlobalApi.js with your Hygraph CMS API access:
