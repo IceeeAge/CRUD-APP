@@ -29,6 +29,7 @@ const MASTER_URL = "paste_your_api_access_here";
 - Delete
 - Publish
 - Unpublish
+![Project Logo](/assets/Images/permission.png)
 
 ### Happy Coding!
  You are now set up with your Expo CRUD-APP integrated with Hygraph CMS using GraphQL!
