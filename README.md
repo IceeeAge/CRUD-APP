@@ -31,7 +31,6 @@ const MASTER_URL = "paste_your_api_access_here";
 - Delete
 - Publish
 - Unpublish
-
 ![Permission](/assets/Images/permission.png)
 
 ### Happy Coding!
