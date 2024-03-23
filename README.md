@@ -12,6 +12,7 @@ https://github.com/IceeeAge/CRUD-APP/assets/135114589/fbdf4407-42ec-4e0d-b5f0-d4
 
 ## 3. Create a Hygraph CMS Account
 - Create an account on Hygraph CMS
+- Create New Project Name
 
 # 4. Create Schema in Hygraph CMS
 - Add Schema: Note
