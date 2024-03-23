@@ -19,7 +19,7 @@ https://github.com/IceeeAge/CRUD-APP/assets/135114589/fbdf4407-42ec-4e0d-b5f0-d4
 ![Schema](/assets/Images/schema.png)
 
 ## 5. Update GlobalApi.js
-- Change the URL in GlobalApi.js with your Hygraph CMS go to setting find API access: copy paste your Endpoints =>
+- Change the MASTER_URL in GlobalApi.js with your Hygraph CMS go to setting find API access: copy paste your Endpoints =>
 - 
 const MASTER_URL = "paste_your_api_access_here";
 
