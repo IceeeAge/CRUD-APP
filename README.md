@@ -2,7 +2,7 @@
 # Demo Video
 https://github.com/IceeeAge/CRUD-APP/assets/135114589/fbdf4407-42ec-4e0d-b5f0-d462a1d44e39
 
-## 1. Clone the Repository
+## 1. Clone this Repository
     git clone https://github.com/your-username/your-expo-app.git
 
 # 2. Install Dependencies
@@ -31,7 +31,8 @@ const MASTER_URL = "paste_your_api_access_here";
 - Delete
 - Publish
 - Unpublish
-![Permission](/assets/Images/permission.png)
+![Permission](https://ap-northeast-1.graphassets.com/clu3u47nf045d08ya17mgg8u5/clu3vv8293flz07zlfctxelnr)
+
 
 ### Happy Coding!
  You are now set up with your Expo CRUD-APP integrated with Hygraph CMS using GraphQL!
